@@ -1,5 +1,5 @@
 body {
-    background-image: ('white.gif');
+    background-image: url("white.gif");
 }
 
 h2 {  
