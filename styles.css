@@ -1,5 +1,5 @@
 body {
-    background-image: url("black.gif");
+    background-image: url('white.gif');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -17,7 +17,7 @@ ul {
 }
 
 .banner {
-    background-image: url('white.gif');
+    background-image: url('black.gif');
     background-size: cover;
     background-position: center;
     color: #fff;
