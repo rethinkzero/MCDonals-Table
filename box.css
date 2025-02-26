@@ -1,7 +1,6 @@
 body {
   display: flex;
-  justify-content: center; 
-  align-items: center;
+  justify-content: flex-start; 
   flex-direction: column; 
   height: 100vh;    
   margin: 0;
@@ -19,9 +18,4 @@ div {
 
 h1, h2 {
   text-align: center;
-}
-
-a {
-  text-align: center;
-  font-size: 1.2em;
 }
