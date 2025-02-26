@@ -6,6 +6,9 @@ div {
   margin: 20px;
   text-align: center;
   font-size: 2.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 h1 {
   text-align: center;
