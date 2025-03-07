@@ -1,6 +1,7 @@
 img {
   opacity: 0;
   transition: opacity 230ms;
+  align: center;
 }
 img:hover {
   opacity: 1;
