@@ -1,7 +1,7 @@
-.logo {
+img {
   opacity: 0;
-  transition: opacity 230ms ease-in-out;
+  transition: opacity 230ms;
 }
-.logo:hover {
+img:hover {
   opacity: 1;
 }
