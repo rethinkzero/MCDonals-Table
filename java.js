@@ -1,5 +1,6 @@
 const MCDonaldDiv = document.getElementById('MCDonald');
 const TrumpDiv = document.getElementById('Trump');
+
 const infoDiv = document.getElementById('info');
 
 MCDonaldDiv.addEventListener('click', function() {
