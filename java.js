@@ -17,7 +17,7 @@ TrumpDiv.addEventListener('click', function() {
 //work from thursday here
 
 
-const container = document.getElementById("list-container");
+const container = document.getElementById("list_container");
 
 for (let i = 1; i <= 5; i++) {
   const p = document.createElement("p");
