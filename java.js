@@ -36,7 +36,7 @@ while (j <= 5) {
 
 for (let k = 1; k <= 20; k++) {
   const p = document.createElement("p");
-  p.textContent = i;
+  p.textContent = "Blue or red? # " + k;
 
   if (k % 2 == 0) {
     p.style.color = "blue";
