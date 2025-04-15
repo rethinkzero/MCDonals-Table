@@ -10,7 +10,6 @@ MCDonaldDiv.addEventListener('click', function() {
 TrumpDiv.addEventListener('click', function() {
   infoDiv.innerHTML = 'Trump Working on MCDONALD? WHAAAAAA';
 });
-//work from thursday here
 
 document.getElementById("checkButton").addEventListener("click", function() {
   let age = document.getElementById("ageInput").value;
@@ -31,9 +30,6 @@ document.getElementById("checkButton").addEventListener("click", function() {
     resultImage.src = "car.jpg";
   }
 });
-
-//work from thursday here
-
 
 const container = document.getElementById("list_container");
 
