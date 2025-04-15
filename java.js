@@ -20,7 +20,7 @@ document.getElementById("checkButton").addEventListener("click", function() {
   if (age <= 15) {
     resultText.innerText = "You cannot drive";
     resultText.style.color = "red"; // change color
-    resultImage.src = "bmx.jpg";
+    resultImage.src = "bike.jpg";
   } else if (age >= 16 && age <= 24) {
     resultText.innerText = "You can drive";
     resultText.style.color = "green";
